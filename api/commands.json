@@ -1,0 +1,66 @@
+{
+    "Comandos" : [
+    {
+      "name": "🔹 /ajuda",
+      "descricao": "Precisa de ajuda? Veja como começar!"
+    },
+    {
+      "name": "🌐 /site",
+      "descricao": "Acesse o site oficial do Zada."
+    },
+    {
+      "name": "📂 /git",
+      "descricao": "Acesse o repositório do projeto no GitHub."
+    },
+    {
+      "name": "🤖 /convite",
+      "descricao": "Convide o Zada para seu servidor!"
+    },
+    {
+      "name": "💵 /getficha",
+      "descricao": "Obtenha suas fichas iniciais para começar a jogar."
+    },
+    {
+      "name": "🎲 /apostar",
+      "descricao": "Multiplique seu valor em 2x, 4x ou 8x."
+    },
+    {
+      "name": "🔖 /info",
+      "descricao": "Veja informações gerais sobre o cassino."
+    },
+    {
+      "name": "👤 /perfil",
+      "descricao": "Confira suas informações pessoais e saldo."
+    },
+    {
+      "name": "📝 /registrar",
+      "descricao": "Registre-se no cassino e comece a apostar."
+    },
+    {
+      "name": "🪙 /jogar-moeda",
+      "descricao": "Teste sua sorte com cara ou coroa!"
+    },
+    {
+      "name": "⚡ /tudo-ou-nada",
+      "descricao": "Dobre seu saldo ou perca tudo!"
+    },
+    {
+      "name": "⚔️ /x1",
+      "descricao": "Enfrente outro jogador valendo 100 fichas"
+    },
+    {
+      "name": "🏅 /rank",
+      "descricao": "Confira o ranking dos jogadores mais ricos."
+    },
+    {
+      "name": "🧌 /confronto",
+      "descricao": "Multiplique seu dinheiro em 32x derrotando um monstro!"
+    },
+    {
+      "name": "📤 /pix",
+      "descricao": "Envie fichas para outro jogador."
+    }
+    ]
+
+}
+  
