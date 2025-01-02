@@ -1,0 +1,45 @@
+{
+    "adminCommands": [
+      {
+        "name": "💰 /add-all",
+        "description": "Adicione fichas a todos os players do cassino (Apenas administradores)."
+      },
+      {
+        "name": "🧹 /clear-saldo",
+        "description": "Zera o saldo de um usuário (apenas para administradores)."
+      },
+      {
+        "name": "🗑️ /deletar-user",
+        "description": "Deleta um usuário do cassino (Apenas para administradores)."
+      },
+      {
+        "name": "🎁 /donate",
+        "description": "Adiciona fichas à conta de outro usuário (apenas para administradores)."
+      },
+      {
+        "name": "📊 /performance",
+        "description": "Exibe o consumo de RAM e a latência do bot (apenas para administradores)."
+      },
+      {
+        "name": "❌ /rem-all",
+        "description": "Remove certa quantia de fichas de todos os players do cassino (Apenas administradores)."
+      },
+      {
+        "name": "💸 /remover-fichas",
+        "description": "Remove fichas à conta de outro usuário (apenas para administradores)."
+      },
+      {
+        "name": "📜 /req-list",
+        "description": "Mostra as últimas interações registradas (somente para admins)."
+      },
+      {
+        "name": "🌐 /listar-servidores",
+        "description": "Lista todos os servidores em que o bot está (Apenas para administradores)."
+      },
+      {
+        "name": "💎 /setar-saldo",
+        "description": "Seta um saldo à conta de outro usuário (apenas para administradores)."
+      }
+    ]
+  }
+  
