@@ -37,6 +37,10 @@
       "descricao": "Registre-se no cassino e comece a apostar."
     },
     {
+      "name": "💳 /depositar",
+      "descricao": "Realize depósitos ou saques e administre suas fichas"
+    },
+    {
       "name": "🪙 /jogar-moeda",
       "descricao": "Teste sua sorte com cara ou coroa!"
     },

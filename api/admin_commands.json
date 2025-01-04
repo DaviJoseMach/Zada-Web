@@ -5,6 +5,10 @@
         "description": "Adicione fichas a todos os players do cassino (Apenas administradores)."
       },
       {
+        "name": "📩 /set-all",
+        "description": "Seta um saldo à conta de todos os usuários (apenas para administradores)."
+      },
+      {
         "name": "🧹 /clear-saldo",
         "description": "Zera o saldo de um usuário (apenas para administradores)."
       },
